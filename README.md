@@ -543,35 +543,45 @@ Compose an email
 
 # 📸 Demo & Screenshots
 
-The project demonstration should highlight the most important AI-assisted workflows.
-
-Recommended screenshots:
+The following screenshots demonstrate the major AI-assisted workflows implemented in Nebula Mail AI.
 
 ## Screenshot 1 — Main Mailbox
 
-Show:
+The main interface shows the connected Gmail mailbox, Inbox, email list, navigation, and AI Assistant.
 
-- Gmail connection
-- Inbox
-- Email list
-- Navigation
-- AI Assistant
+![Main Mailbox](screenshots/01-mailbox.png)
 
-## Screenshot 2 — AI Compose
+---
 
-Show a natural-language command opening the compose interface and populating the email fields.
+## Screenshot 2 — AI-Powered Compose
 
-## Screenshot 3 — AI Search / Filtering
+The AI Assistant interprets a natural-language command and opens the Compose interface with the email fields populated.
 
-Show an assistant command and the resulting filtered mailbox.
+![AI Compose](screenshots/02-ai-compose.png)
+
+---
+
+## Screenshot 3 — AI Email Navigation
+
+The assistant understands a natural-language request to locate and open a specific email from the mailbox.
+
+![AI Email Navigation](screenshots/03-ai-open-email.png)
+
+---
 
 ## Screenshot 4 — Send Confirmation
 
-Show the confirmation step before the email is sent through Gmail.
+Before an email is sent through the real Gmail account, the application displays a confirmation step to prevent accidental sending.
+
+![Send Confirmation](screenshots/04-send-confirmation.png)
+
+---
 
 ## Screenshot 5 — Real Gmail Result
 
-Show the successfully sent email in Gmail / Sent Mail.
+The email sent through the application can be verified directly in the authenticated Gmail account's Sent Mail.
+
+![Real Gmail Result](screenshots/05-real-gmail-result.png)
 
 ---
 
